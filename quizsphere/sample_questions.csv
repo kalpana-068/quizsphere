@@ -1,0 +1,9 @@
+subject,unit,difficulty,type,text,optionA,optionB,optionC,optionD,correctAnswer
+Computer Science,Web Development,easy,mcq,"Which of these is a JavaScript library for building user interfaces?",Django,React,Laravel,Flask,B
+Computer Science,Web Development,easy,mcq,"What does HTML stand for?",Hyper Text Markup Language,High Tech Modern Language,Hyper Transfer Markup Language,Home Tool Markup Language,A
+Computer Science,Databases,medium,mcq,"MongoDB stores data in which format?",Tables,Documents,Graphs,Key-value only,B
+Computer Science,Databases,easy,truefalse,"MongoDB is a NoSQL database",,,,,True
+Computer Science,Web Development,medium,truefalse,"Express.js is a frontend framework",,,,,False
+Computer Science,Web Development,easy,fillblank,"JWT stands for JSON Web ____",,,,,Token
+Computer Science,Web Development,medium,fillblank,"The Node.js package manager is called ____",,,,,npm
+Computer Science,Security,hard,mcq,"Which library is used in this project to hash passwords?",bcryptjs,multer,cors,dotenv,A
